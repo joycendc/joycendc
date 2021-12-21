@@ -1,4 +1,4 @@
-<a href="https://" target="_blank"><img align="center" src="" /></a>
+<a href="https://joycendc.github.io/Profile/images/avatar.png" target="_blank"><img align="center" src="" /></a>
 
 ## Joycen Capili
 
